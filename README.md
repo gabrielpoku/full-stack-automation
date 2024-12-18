@@ -137,10 +137,8 @@ full-stack-automation/
 - During this automation process, you'll be prompted to create A records, pointing your newly created server IP to your domains.
   - yourdomain.com
   - db.yourdomain.com
-  - traefik.yourdomain.com
   - www.yourdomain.com
-  - www.db.yourdomain.com
-  - www.traefik.yourdomain.com
+  -
 ---
 ### Step 5: Access your applications and monitoring dashboards
 - Access all your applications at their respective domains.
